@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="万刃.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="元件 117 实例 10000" x="402" y="299" width="244" height="198" frameX="-78" frameY="-101" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10001" x="0" y="0" width="310" height="205" frameX="-48" frameY="-122" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10002" x="398" y="497" width="173" height="273" frameX="-107" frameY="-43" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10003" x="569" y="842" width="272" height="126" frameX="-82" frameY="-112" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10004" x="813" y="425" width="96" height="298" frameX="-130" frameY="-15" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10005" x="0" y="661" width="325" height="181" frameX="-10" frameY="-64" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10006" x="698" y="723" width="308" height="92" frameX="-60" frameY="-140" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10007" x="698" y="425" width="115" height="283" frameX="-132" frameY="-48" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10008" x="778" y="230" width="246" height="195" frameX="-105" frameY="-85" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10009" x="571" y="497" width="127" height="345" frameX="-189" frameY="0" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10010" x="778" y="0" width="228" height="230" frameX="-96" frameY="-78" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10011" x="386" y="770" width="183" height="243" frameX="-110" frameY="-48" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10012" x="310" y="0" width="402" height="154" frameX="0" frameY="-133" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10013" x="0" y="205" width="402" height="154" frameX="0" frameY="-133" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10014" x="0" y="359" width="398" height="151" frameX="-2" frameY="-134" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10015" x="0" y="510" width="393" height="151" frameX="-4" frameY="-134" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10016" x="0" y="842" width="386" height="148" frameX="-8" frameY="-136" frameWidth="402" frameHeight="345"/>
+	<SubTexture name="元件 117 实例 10017" x="402" y="154" width="376" height="145" frameX="-13" frameY="-137" frameWidth="402" frameHeight="345"/>
+</TextureAtlas>
